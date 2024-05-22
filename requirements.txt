@@ -1,0 +1,2 @@
+ultralytics==8.2.19
+albumentations==1.4.7
