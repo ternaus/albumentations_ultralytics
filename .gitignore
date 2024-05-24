@@ -166,3 +166,4 @@ conda_build/
 *.ipynb
 
 .ruff_cache/
+lightning_logs/
